@@ -151,7 +151,7 @@ footer {
 }
 ```
 
-###Contribuciones
+### Contribuciones
 Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
 
 1. Haz un fork del repositorio.
@@ -160,8 +160,8 @@ Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
 4. Sube tus cambios a la rama (git push origin feature-nuevaCaracterística).
 5. Abre un Pull Request.
 
-###Contacto
+### Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros enviando un correo electrónico a huayhualopezwendy@gmail.com.
 
-###Licencia
+### Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
