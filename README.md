@@ -63,7 +63,7 @@ El archivo **style.css** define los estilos para todas las páginas del sitio we
 
 ### Ejemplo de código CSS:
 
-css
+```css
 body {
   font-family: 'Lucida Sans', sans-serif;
   line-height: 1.6;
@@ -149,6 +149,7 @@ footer {
   padding: 10px 0;
   margin-top: 20px;
 }
+```
 
 ###Contribuciones
 Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
